@@ -1,1 +1,1 @@
-# data-structures-cpp/greedyalgorithms
+# data-structures-cpp
